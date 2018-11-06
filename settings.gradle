@@ -1,0 +1,1 @@
+include ':example', ':allshopannotations', ':allshopcompller', ':allshopcore', ':allshopec'
